@@ -1,0 +1,17 @@
+.textInput {
+    width: 150px;
+
+    .label,
+    .inputField {
+        display: block;
+        width: 100%;
+    }
+
+    .label {
+        font-size: 14px;
+    }
+
+    .inputField {
+        font-size: 12px;
+    }
+}
